@@ -1,4 +1,5 @@
 # MEMORY.md
+**Claude Code users:** Install the plugin for the full automatic experience — [memory-md-plugin](https://github.com/adi0x/memory-md-plugin)
 
 ### The open standard for AI agent experiential memory.
 
