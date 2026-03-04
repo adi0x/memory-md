@@ -1,5 +1,7 @@
-# MEMORY.md
+# MEMORY.md v2
 **Claude Code users:** Install the plugin for the full automatic experience — [memory-md-plugin](https://github.com/adi0x/memory-md-plugin)
+
+**New in v2:** Dream mode. Your agent reflects on its own memories, finds patterns, admits blind spots, and updates its beliefs. Agents that don't just remember — agents that understand.
 
 ### The open standard for AI agent experiential memory.
 
